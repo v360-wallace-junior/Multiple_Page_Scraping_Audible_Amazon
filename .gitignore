@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+
+# Generated scraper output
+books.csv
+
+# Local environment variables
+.env
